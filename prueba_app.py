@@ -16,11 +16,11 @@ Opciones:
 9. Salir
 """
 
-from pruebaservicios import (
+from prueba_servicios import (
     agregar_producto, mostrar_inventario, buscar_producto,
     actualizar_producto, eliminar_producto, calcular_estadisticas
 )
-from pruebaarchivos import guardar_csv, cargar_csv
+from prueba_archivos import guardar_csv, cargar_csv
 
 def pedir_numero(prompt, tipo=float, minimo=None, permitir_vacio=False):
     """
