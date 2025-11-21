@@ -1,0 +1,5 @@
+Fruta= uva
+Fruta= mango
+Fruta= fresa
+Fruta= papaya
+Fruta= cereza
